@@ -2,7 +2,6 @@
 
 ## Table of Contents
 
-
 - [Back-Propagation](#back-propagation)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
@@ -32,13 +31,17 @@
 
 - **Future Directions:** Ongoing research aims to address remaining challenges in backpropagation, such as its vulnerability to vanishing and exploding gradients in very deep networks. Techniques like residual connections, attention mechanisms, and advanced optimization strategies continue to push the boundaries of what neural networks can achieve.
 
+ 
+
 ## Significance
-1. Training Deep Neural Networks
+
+1. Tranning Deep Neural Netwok
 2. Foundation of Deep Learning
 3. Optimization
 4. Scalability
 5. Efficient Training
 6. Versatility
+
 
 ## Architecture
 ![Alt text](images/arc.jpg)
@@ -64,8 +67,6 @@
 
 
 ## Algorithm
-
-This repository contains an implementation of the backpropagation algorithm, which is fundamental in training neural networks. The algorithm adjusts the weights of neurons to minimize prediction errors during training. Below is a breakdown of how the algorithm works:
 
 ### Steps of Backpropagation
 
@@ -111,5 +112,7 @@ Neural networks (NNs) are utilized in various domains for their ability to learn
 - Robotics
 - Gaming
 - Recommendation Systems
+
+
 
 
